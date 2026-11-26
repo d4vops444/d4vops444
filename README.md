@@ -1,9 +1,4 @@
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" alt="wave"> I'm David Correia</h1>
-
-<p align="center"><b>Salesforce Developer</b> · Computer Engineering @ ISEC · Coimbra, Portugal 🇵🇹</p>
-
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
-
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm d4vops444</h1> <p align="center"><b>David Correia</b> · Salesforce Developer · Computer Engineering @ ISEC · Coimbra, Portugal 🇵🇹</p> <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 💼 Salesforce Developer working with **Apex**, **LWC** and **Copado**
